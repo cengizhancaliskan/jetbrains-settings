@@ -19,6 +19,9 @@
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.NavigateExportedAction">
+    <keyboard-shortcut first-keystroke="alt f7" />
+  </action>
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
@@ -37,6 +40,10 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoHome" />
   <action id="FileChooser.GotoProject" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
@@ -59,7 +66,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="shift meta f" />
+    <keyboard-shortcut first-keystroke="shift meta o" />
   </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
