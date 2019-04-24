@@ -47,6 +47,10 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="GotoLine">
+    <keyboard-shortcut first-keystroke="meta g" />
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
@@ -83,6 +87,7 @@
   <action id="SendEOF" />
   <action id="TagDocumentationNavigation" />
   <action id="Uml.ShowDiff" />
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
 </keymap>
