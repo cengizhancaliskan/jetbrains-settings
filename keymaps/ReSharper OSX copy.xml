@@ -1,0 +1,29 @@
+<keymap version="1" name="ReSharper OSX copy" parent="ReSharper OSX">
+  <action id="ChangesView.Diff" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta f4" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDelete" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="RiderUnitTestDebugContextTwAction" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="Uml.ShowDiff" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
