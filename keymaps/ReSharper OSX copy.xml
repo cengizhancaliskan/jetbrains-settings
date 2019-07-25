@@ -1,4 +1,4 @@
-<keymap version="1" name="ReSharper OSX copy">
+<keymap version="1" name="ReSharper OSX copy" parent="ReSharper OSX">
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateProjectToolWindow" />
   <action id="ActivateRunToolWindow" />
