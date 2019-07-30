@@ -1,4 +1,4 @@
-<keymap version="1" name="ReSharper OSX copy">
+<keymap version="1" name="ReSharper OSX copy" parent="ReSharper OSX">
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateProjectToolWindow" />
   <action id="ActivateRunToolWindow" />
@@ -59,10 +59,6 @@
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SafeDelete" />
-  <action id="Scala.ShowImplicits">
-    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
-    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
-  </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
