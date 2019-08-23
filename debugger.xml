@@ -82,14 +82,17 @@
     </data-views>
     <general />
     <debuggers>
+      <debugger id="dotnet_debugger">
+        <configuration>
+          <option name="allowTypingDuringDebug" value="true" />
+          <option name="remappedSourceLocationsMap">
+            <map />
+          </option>
+        </configuration>
+      </debugger>
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
         </configuration>
       </debugger>
     </debuggers>
