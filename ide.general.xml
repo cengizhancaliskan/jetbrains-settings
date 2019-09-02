@@ -11,6 +11,10 @@
     <entry key="rider.enable.designer.winForms" value="false" />
     <entry key="SBT.system.in.process" value="true" />
     <entry key="BSP.system.in.process" value="true" />
-    <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
+    <entry key="performance.watcher.sampling.interval.ms" value="200" />
+    <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
+    <entry key="ide.borderless.title.project.path" value="false" />
+    <entry key="ide.borderless.title.classpath" value="false" />
+    <entry key="ide.borderless.title.product" value="false" />
   </component>
 </application>
