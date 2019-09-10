@@ -8,7 +8,7 @@
     <entry key="actionSystem.fix.alt.gr" value="false" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="parameter.info.max.visible.rows" value="10" />
-    <entry key="rider.enable.designer.winForms" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="SBT.system.in.process" value="true" />
     <entry key="BSP.system.in.process" value="true" />
     <entry key="performance.watcher.sampling.interval.ms" value="200" />
