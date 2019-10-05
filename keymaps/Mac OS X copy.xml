@@ -17,6 +17,10 @@
     <keyboard-shortcut first-keystroke="meta 1" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="meta f9" />
+    <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.NavigateExportedAction">
