@@ -66,6 +66,11 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
     <keyboard-shortcut first-keystroke="meta up" />
   </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="NewElementInMenuGroup">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
