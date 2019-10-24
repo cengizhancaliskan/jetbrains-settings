@@ -6,5 +6,11 @@
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="parameter.info.max.visible.rows" value="10" />
     <entry key="rider.enable.designer.winForms" value="false" />
+    <entry key="ide.win.file.chooser.native" value="true" />
+    <entry key="performance.watcher.sampling.interval.ms" value="200" />
+    <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
+    <entry key="ide.borderless.title.project.path" value="false" />
+    <entry key="ide.borderless.title.classpath" value="false" />
+    <entry key="ide.borderless.title.product" value="false" />
   </component>
 </application>
