@@ -17,7 +17,12 @@
     <entry key="ide.borderless.title.project.path" value="false" />
     <entry key="ide.borderless.title.classpath" value="false" />
     <entry key="ide.borderless.title.product" value="false" />
-    <entry key="rider.enable.designer.winForms" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="ide.win.file.chooser.native" value="true" />
+    <entry key="ide.svg.icon" value="true" />
+    <entry key="ide.win.frame.decoration" value="true" />
+    <entry key="show.log.as.editor.tab" value="false" />
+    <entry key="show.diff.preview.as.editor.tab" value="true" />
+    <entry key="vcs.non.modal.commit.toggle.ui" value="false" />
   </component>
 </application>
