@@ -1,5 +1,31 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoredPackages">
+      <value>
+        <list size="18">
+          <item index="0" class="java.lang.String" itemvalue="textcleaner" />
+          <item index="1" class="java.lang.String" itemvalue="pymongo" />
+          <item index="2" class="java.lang.String" itemvalue="confluent-kafka" />
+          <item index="3" class="java.lang.String" itemvalue="impyla" />
+          <item index="4" class="java.lang.String" itemvalue="scikit-learn" />
+          <item index="5" class="java.lang.String" itemvalue="unidecode" />
+          <item index="6" class="java.lang.String" itemvalue="thrift_sasl" />
+          <item index="7" class="java.lang.String" itemvalue="sklearn" />
+          <item index="8" class="java.lang.String" itemvalue="numpy" />
+          <item index="9" class="java.lang.String" itemvalue="requests" />
+          <item index="10" class="java.lang.String" itemvalue="redis" />
+          <item index="11" class="java.lang.String" itemvalue="maya" />
+          <item index="12" class="java.lang.String" itemvalue="pandas" />
+          <item index="13" class="java.lang.String" itemvalue="mordor-common-py" />
+          <item index="14" class="java.lang.String" itemvalue="paramiko" />
+          <item index="15" class="java.lang.String" itemvalue="tensorflow" />
+          <item index="16" class="java.lang.String" itemvalue="python-json-logger" />
+          <item index="17" class="java.lang.String" itemvalue="mordor-kafka-py" />
+        </list>
+      </value>
+    </option>
+  </inspection_tool>
   <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="ignoredErrors">
       <list>
