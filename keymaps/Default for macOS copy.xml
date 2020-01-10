@@ -1,6 +1,9 @@
 <keymap version="1" name="Default for macOS copy" parent="Mac OS X 10.5+">
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateProjectToolWindow" />
+  <action id="ActivateRepositoryToolWindow">
+    <keyboard-shortcut first-keystroke="meta 9" />
+  </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
