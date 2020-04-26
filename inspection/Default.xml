@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="18">
+        <list size="23">
           <item index="0" class="java.lang.String" itemvalue="textcleaner" />
           <item index="1" class="java.lang.String" itemvalue="pymongo" />
           <item index="2" class="java.lang.String" itemvalue="confluent-kafka" />
@@ -22,6 +22,11 @@
           <item index="15" class="java.lang.String" itemvalue="tensorflow" />
           <item index="16" class="java.lang.String" itemvalue="python-json-logger" />
           <item index="17" class="java.lang.String" itemvalue="mordor-kafka-py" />
+          <item index="18" class="java.lang.String" itemvalue="sanic-prometheus" />
+          <item index="19" class="java.lang.String" itemvalue="parameterized" />
+          <item index="20" class="java.lang.String" itemvalue="sanic" />
+          <item index="21" class="java.lang.String" itemvalue="mock" />
+          <item index="22" class="java.lang.String" itemvalue="ujson" />
         </list>
       </value>
     </option>
