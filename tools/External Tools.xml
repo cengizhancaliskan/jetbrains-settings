@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="$USER_HOME$/Workspace/etl/mordoretlspark/bin/start-hdfs" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Workspace/etl/mordoretlspark/bin" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/Cengizhan's Desktop/Workspace/etl/mordoretlspark/bin" />
     </exec>
   </tool>
 </toolSet>
