@@ -1,0 +1,40 @@
+<keymap version="1" name="Windows copy" parent="$default">
+  <action id="ChangesView.Diff" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift ctrl w" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.CompareCells" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="EditorUnSelectWord" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="GotoBookmark4" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl 4" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="Uml.ShowDiff" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
