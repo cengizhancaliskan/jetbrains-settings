@@ -1,7 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="clear-pip" type="Shell Script" />
-    </extensionMap>
-  </component>
-</application>
