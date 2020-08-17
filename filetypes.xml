@@ -1,12 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="in" type="PLAIN_TEXT" />
-      <removed_mapping pattern="mongoConnector" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="grpc_service.go" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern="VERSION" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dev" type="Ini" />
+      <mapping pattern="clear-pip" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
