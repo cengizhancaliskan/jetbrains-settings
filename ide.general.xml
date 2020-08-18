@@ -14,8 +14,8 @@
     <entry key="ide.svg.icon" value="true" />
     <entry key="ide.win.frame.decoration" value="true" />
     <entry key="ide.tooltip.showAllSeverities" value="true" />
-    <entry key="rider.enable.designer.winForms" value="true" />
     <entry key="BSP.system.in.process" value="true" />
     <entry key="SBT.system.in.process" value="true" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
