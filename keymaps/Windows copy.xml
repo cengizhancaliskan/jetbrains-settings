@@ -10,6 +10,9 @@
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl alt subtract" />
+  </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
@@ -62,6 +65,10 @@
     <keyboard-shortcut first-keystroke="ctrl 4" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
