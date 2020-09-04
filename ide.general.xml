@@ -16,6 +16,9 @@
     <entry key="ide.tooltip.showAllSeverities" value="true" />
     <entry key="BSP.system.in.process" value="true" />
     <entry key="SBT.system.in.process" value="true" />
+    <entry key="ide.borderless.tab.caption.in.title" value="false" />
+    <entry key="ide.debug.in.title" value="true" />
+    <entry key="rdclient.asyncActions" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
