@@ -26,5 +26,7 @@
     <entry key="ide.borderless.tab.caption.in.title" value="false" />
     <entry key="ide.debug.in.title" value="true" />
     <entry key="rdclient.asyncActions" value="false" />
+    <entry key="actionSystem.fix.alt.gr" value="false" />
+    <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
