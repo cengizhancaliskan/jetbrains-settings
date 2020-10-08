@@ -1,7 +1,4 @@
 <application>
-  <component name="Go">
-    <option name="detectGoPackageFromClipboard" value="false" />
-  </component>
   <component name="RiderCodeCompletionExtraSettings">
     <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
   </component>
