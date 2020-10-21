@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="composer.lock" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="phpunit.xml.dist" type="XML" />
       <mapping pattern="clear-pip" type="Shell Script" />
     </extensionMap>
   </component>
