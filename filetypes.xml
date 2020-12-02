@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="txt" type="PLAIN_TEXT" />
+      <mapping pattern="clear-pip" type="Shell Script" />
+      <mapping ext="txt" type="requirements.txt" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern="clear-pip" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
