@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'NavigationService.Api'" />
-    <option name="defaultScopeName" value="Project 'NavigationService.Api'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'NavigationService.Api'" />
+    <option name="SEARCH_SCOPE" value="Solution" />
   </component>
 </application>
