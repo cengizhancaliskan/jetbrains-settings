@@ -1776,7 +1776,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.properties" />
               <option name="myPluginName" value="Properties" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
