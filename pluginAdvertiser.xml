@@ -214,6 +214,7 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.sh" />
               <option name="myPluginName" value="Shell Script" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2287,6 +2288,7 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.sh" />
               <option name="myPluginName" value="Shell Script" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -3172,6 +3174,7 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.sh" />
               <option name="myPluginName" value="Shell Script" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
