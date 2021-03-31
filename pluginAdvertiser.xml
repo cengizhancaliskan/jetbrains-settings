@@ -86,8 +86,8 @@
         <entry key="*.apk">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -362,8 +362,8 @@
         <entry key="*.config">
           <value>
             <plugin>
-              <option name="myPluginId" value="Lombook Plugin" />
-              <option name="myPluginName" value="Lombok" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -684,8 +684,8 @@
         <entry key="*.form">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.intellij.uiDesigner" />
-              <option name="myPluginName" value="UI Designer" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -693,8 +693,8 @@
         <entry key="*.fs">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
+              <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
+              <option name="myPluginName" value="F# Support" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -792,8 +792,8 @@
         <entry key="*.gdsl">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.intellij.groovy" />
-              <option name="myPluginName" value="Groovy" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -882,8 +882,8 @@
         <entry key="*.groovy">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.intellij.groovy" />
-              <option name="myPluginName" value="Groovy" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -909,8 +909,8 @@
         <entry key="*.gy">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.intellij.groovy" />
-              <option name="myPluginName" value="Groovy" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -999,8 +999,9 @@
         <entry key="*.hphp">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1602,8 +1603,9 @@
         <entry key="*.module">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -1828,32 +1830,36 @@
         <entry key="*.php">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
         <entry key="*.php4">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
         <entry key="*.php5">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
         <entry key="*.phtml">
           <value>
             <plugin>
-              <option name="myPluginId" value="com.jetbrains.php" />
-              <option name="myPluginName" value="PHP" />
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2003,8 +2009,8 @@
         <entry key="*.psd">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.jetbrains.android" />
-              <option name="myPluginName" value="Android" />
+              <option name="myPluginId" value="com.intellij.platform.images" />
+              <option name="myPluginName" value="com.intellij.platform.images" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
