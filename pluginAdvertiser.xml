@@ -214,6 +214,7 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.sh" />
               <option name="myPluginName" value="Shell Script" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2161,7 +2162,6 @@
             <plugin>
               <option name="myPluginId" value="com.intellij.properties" />
               <option name="myPluginName" value="Properties" />
-              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2469,6 +2469,7 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.sh" />
               <option name="myPluginName" value="Shell Script" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -3394,6 +3395,7 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.sh" />
               <option name="myPluginName" value="Shell Script" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -4152,6 +4154,11 @@
                   <entry key="LaunchSettings">
                     <value>
                       <FeaturePluginData displayName=".NET Launch Settings Profile" pluginName="IDEA CORE" pluginId="com.intellij" />
+                    </value>
+                  </entry>
+                  <entry key="MAKEFILE_TARGET_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Makefile" pluginName="Makefile support" pluginId="name.kropp.intellij.makefile" />
                     </value>
                   </entry>
                   <entry key="MUnitRunConfiguration">
