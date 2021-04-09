@@ -32,6 +32,6 @@
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
     <entry key="ea.enable.developers.list" value="false" />
-    <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="rider.enable.designer.winForms" value="false" />
   </component>
 </application>
