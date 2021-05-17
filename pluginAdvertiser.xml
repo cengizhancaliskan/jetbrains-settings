@@ -112,6 +112,11 @@
                       <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="PhoneGap">
+                    <value>
+                      <FeaturePluginData displayName="Cordova" pluginName="Cordova" pluginId="com.github.masahirosuzuka.PhoneGapIntelliJPlugin" bundled="true" />
+                    </value>
+                  </entry>
                   <entry key="ReactNative">
                     <value>
                       <FeaturePluginData displayName="React Native" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
@@ -139,7 +144,7 @@
                   </entry>
                   <entry key="ShConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
+                      <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" bundled="true" />
                     </value>
                   </entry>
                   <entry key="TSqltConfigurationType">
@@ -200,6 +205,11 @@
                   <entry key="js.build_tools.npm">
                     <value>
                       <FeaturePluginData displayName="npm" pluginName="JavaScript and TypeScript" pluginId="JavaScript" bundled="true" />
+                    </value>
+                  </entry>
+                  <entry key="meteor-app-runner">
+                    <value>
+                      <FeaturePluginData displayName="Meteor" pluginName="Meteor" pluginId="com.jetbrains.plugins.meteor" bundled="true" />
                     </value>
                   </entry>
                   <entry key="mocha-javascript-test-runner">
