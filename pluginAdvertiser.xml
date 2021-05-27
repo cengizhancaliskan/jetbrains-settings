@@ -139,7 +139,7 @@
                   </entry>
                   <entry key="ShConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" bundled="true" />
+                      <FeaturePluginData displayName="Shell Script" pluginName="Shell Script" pluginId="com.jetbrains.sh" />
                     </value>
                   </entry>
                   <entry key="TSqltConfigurationType">
