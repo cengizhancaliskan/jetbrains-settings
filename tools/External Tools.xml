@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="HDFS" description="Start HDFS" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="D:\Workspace\work\etl\mordoretlspark\bin\start-hdfs" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="D:/Workspace/work/etl/mordoretlspark/bin" />
+    </exec>
+  </tool>
+</toolSet>
