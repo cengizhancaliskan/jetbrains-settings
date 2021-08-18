@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="responseUtil.js" type="AUTO_DETECTED" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="clear-pip" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="gql" approved="true" type="Graql" />
