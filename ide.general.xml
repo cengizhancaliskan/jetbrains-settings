@@ -25,6 +25,13 @@
     <entry key="ide.debug.in.title" value="true" />
     <entry key="rdclient.asyncActions" value="false" />
     <entry key="actionSystem.fix.alt.gr" value="false" />
+    <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
+    <entry key="use.tabbed.welcome.screen" value="false" />
+    <entry key="ide.new.project.model" value="false" />
+    <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="scala.erase.compiler.process.jdk.once" value="false" />
+    <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" />
+    <entry key="ea.enable.developers.list" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
   </component>
 </application>
