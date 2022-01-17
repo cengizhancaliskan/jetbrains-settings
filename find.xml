@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="route.js" />
+    <option name="FILE_MASK" value="*.hbs" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.shtml</mask>
@@ -15,8 +15,8 @@
     <mask>*.ats</mask>
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
-    <mask>*.hbs</mask>
     <mask>*.js</mask>
     <mask>route.js</mask>
+    <mask>*.hbs</mask>
   </component>
 </application>
