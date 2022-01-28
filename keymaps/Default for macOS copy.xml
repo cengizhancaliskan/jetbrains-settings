@@ -4,6 +4,7 @@
   <action id="ActivateRepositoryToolWindow">
     <keyboard-shortcut first-keystroke="meta 9" />
   </action>
+  <action id="ActivateRunToolWindow" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
