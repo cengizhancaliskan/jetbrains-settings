@@ -1,1 +1,18 @@
-<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+" />
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="SendEOF" />
+  <action id="Uml.ShowDiff" />
+</keymap>
