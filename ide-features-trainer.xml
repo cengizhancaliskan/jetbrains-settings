@@ -1,0 +1,65 @@
+<application>
+  <component name="LessonStateBase">
+    <option name="map">
+      <map>
+        <entry key="actions" value="NOT_PASSED" />
+        <entry key="autocomplete_json" value="NOT_PASSED" />
+        <entry key="basic completion" value="NOT_PASSED" />
+        <entry key="code completion for functions" value="NOT_PASSED" />
+        <entry key="code_completion_for_benchmarks_bn" value="NOT_PASSED" />
+        <entry key="code_completion_for_time_package" value="NOT_PASSED" />
+        <entry key="createstructsandcreatestructfields" value="NOT_PASSED" />
+        <entry key="debug function calls" value="NOT_PASSED" />
+        <entry key="debug_nil_interfaces_hide_types" value="NOT_PASSED" />
+        <entry key="dump_goroutines" value="NOT_PASSED" />
+        <entry key="editorbasics.commentline" value="NOT_PASSED" />
+        <entry key="error_string_formatting" value="NOT_PASSED" />
+        <entry key="export_types" value="NOT_PASSED" />
+        <entry key="fixing a test file" value="NOT_PASSED" />
+        <entry key="generate missing methods" value="NOT_PASSED" />
+        <entry key="generate_getters_and_setters" value="NOT_PASSED" />
+        <entry key="git.annotate" value="NOT_PASSED" />
+        <entry key="git.basicworkflow" value="NOT_PASSED" />
+        <entry key="git.changelistsandshelf" value="NOT_PASSED" />
+        <entry key="git.commit" value="NOT_PASSED" />
+        <entry key="git.interactiverebase" value="NOT_PASSED" />
+        <entry key="git.projecthistory" value="NOT_PASSED" />
+        <entry key="git.quickstart" value="NOT_PASSED" />
+        <entry key="go.onboarding" value="NOT_PASSED" />
+        <entry key="go_enable_generics_in_go_files" value="NOT_PASSED" />
+        <entry key="go_navigate_to_internal_and_build_constraints" value="NOT_PASSED" />
+        <entry key="go_var_check_error_postfix_template" value="NOT_PASSED" />
+        <entry key="goland2019.2.extractmethodrefactoringwithreturns" value="NOT_PASSED" />
+        <entry key="goland2019.2.redundanttypeconversions" value="NOT_PASSED" />
+        <entry key="goland2019.3.createfunctionfromfunctiontype" value="NOT_PASSED" />
+        <entry key="goland2019.3.extractvariablewitherror" value="NOT_PASSED" />
+        <entry key="gophercon.codeformatting" value="NOT_PASSED" />
+        <entry key="gophercon.extractvariable" value="NOT_PASSED" />
+        <entry key="gophercon.gofmt" value="NOT_PASSED" />
+        <entry key="gophercon.implementmissingmethods" value="NOT_PASSED" />
+        <entry key="gophercon.rename" value="NOT_PASSED" />
+        <entry key="goworkingwithparameterslesson" value="NOT_PASSED" />
+        <entry key="handling errors with live and postfix templates: if and rr" value="NOT_PASSED" />
+        <entry key="handling_unhandled_errors" value="NOT_PASSED" />
+        <entry key="implement_methods_with_todo" value="NOT_PASSED" />
+        <entry key="live and postfix templates: else, fori, and vars" value="NOT_PASSED" />
+        <entry key="navigation from comments" value="NOT_PASSED" />
+        <entry key="postfix completion with sort" value="NOT_PASSED" />
+        <entry key="postfix templates (nn, panic, rr, and return)" value="NOT_PASSED" />
+        <entry key="quick-fixes, refactorings, and external documentation" value="NOT_PASSED" />
+        <entry key="select" value="NOT_PASSED" />
+        <entry key="smart type completion" value="NOT_PASSED" />
+        <entry key="smart type completion and pointers" value="NOT_PASSED" />
+        <entry key="smart type completion for type assertions and switch constructions" value="NOT_PASSED" />
+        <entry key="struct inspections" value="NOT_PASSED" />
+        <entry key="support_for_table_tests" value="NOT_PASSED" />
+        <entry key="support_of_go_embed" value="NOT_PASSED" />
+        <entry key="unsafe_context_cancellation" value="NOT_PASSED" />
+        <entry key="using live templates with types" value="NOT_PASSED" />
+        <entry key="working with variadic functions" value="NOT_PASSED" />
+        <entry key="working_with_json_in_go" value="NOT_PASSED" />
+        <entry key="wrapping long lines" value="NOT_PASSED" />
+      </map>
+    </option>
+  </component>
+</application>
