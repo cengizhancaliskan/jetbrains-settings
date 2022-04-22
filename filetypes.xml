@@ -4,6 +4,7 @@
       <mapping pattern="responseUtil.js" type="AUTO_DETECTED" />
       <mapping pattern="clear-pip" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="gql" approved="true" type="Graql" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
