@@ -2,27 +2,16 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="responseUtil.js" type="AUTO_DETECTED" />
-      <mapping pattern="**spring-configuration-metadata.json" type="JSON" />
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="clear-pip" type="Shell Script" />
-      <mapping pattern="bootstrap-**.y**ml" type="YAML" />
-      <mapping pattern="application-**.y**ml" type="YAML" />
-      <mapping pattern="application.yaml" type="YAML" />
-      <mapping pattern="bootstrap.yaml" type="YAML" />
-      <mapping pattern="bootstrap.yml" type="YAML" />
-      <mapping pattern="application.yml" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="gql" approved="true" type="Graql" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping pattern="application-**.properties" type="Properties" />
-      <mapping pattern="application.properties" type="Properties" />
-      <mapping pattern="bootstrap-**.properties" type="Properties" />
-      <mapping pattern="bootstrap.properties" type="Properties" />
     </extensionMap>
   </component>
 </application>
