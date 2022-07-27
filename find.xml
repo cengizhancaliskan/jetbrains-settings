@@ -8,5 +8,6 @@
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
     <mask>*.py</mask>
+    <mask>*.go</mask>
   </component>
 </application>
