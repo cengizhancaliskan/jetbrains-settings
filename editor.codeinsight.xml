@@ -1,0 +1,8 @@
+<application>
+  <component name="Go">
+    <option name="renamePackageOnDirectoryRenaming" value="YES" />
+  </component>
+  <component name="RiderCodeCompletionExtraSettings">
+    <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
+  </component>
+</application>
