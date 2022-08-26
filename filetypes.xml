@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="responseUtil.js" type="AUTO_DETECTED" />
-      <mapping pattern="clear-pip" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="gql" approved="true" type="Graql" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
@@ -12,6 +11,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="space.kts" type="Kotlin" />
+      <mapping pattern="clear-pip" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
