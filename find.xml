@@ -2,6 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
@@ -9,5 +13,8 @@
     <mask>*.pyw</mask>
     <mask>*.py</mask>
     <mask>*.go</mask>
+    <mask>project.json</mask>
+    <mask>doc.yml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
