@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="valk-rds-bastion.aanzee.cc" id="897981e7-1e95-4852-a4b8-297e2fe11095" keyPath="$USER_HOME$/.ssh/valkcomapitest.pem" port="22" nameFormat="DESCRIPTIVE" username="ec2-user" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
