@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="responseUtil.js" type="AUTO_DETECTED" />
       <mapping ext="md " type="AUTO_DETECTED" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="clear-pip" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
@@ -17,7 +18,6 @@
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
