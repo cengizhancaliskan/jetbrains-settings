@@ -9,9 +9,4 @@
     <lookup />
   </component>
   <component name="Instance" id="c46ac67e-7183-47fb-a658-4d0071e62267" version="2022.1.223" />
-  <component name="UsageLog">
-    <event name="CopyLinkToCommit" place="EditorAnnotationsAreaPopup" timestamp="2023-03-20T18:31:37.989523Z">
-      <attribute name="bitbucket">cloud</attribute>
-    </event>
-  </component>
 </application>
