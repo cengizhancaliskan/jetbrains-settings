@@ -3,21 +3,30 @@
     <extensionMap>
       <mapping pattern="responseUtil.js" type="AUTO_DETECTED" />
       <mapping ext="md " type="AUTO_DETECTED" />
+      <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="clear-pip" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
-      <removed_mapping ext="drawio" approved="true" type="AUTO_DETECTED" />
+      <removed_mapping ext="dockerignore" approved="true" type="DockerIgnore file" />
+      <removed_mapping ext="env" approved="true" type="Env File" />
       <removed_mapping ext="env" approved="true" type="Env File" />
       <removed_mapping ext="gql" approved="true" type="Graql" />
+      <removed_mapping ext="gql" approved="true" type="Graql" />
+      <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
+      <removed_mapping pattern=".env" approved="true" type="Env File" />
+      <removed_mapping pattern=".env.*" approved="true" type="Env File" />
       <removed_mapping pattern=".env.*" approved="true" type="Env File" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
-      <mapping ext="plantuml" type="PlantUML file" />
       <mapping ext="space.kts" type="Kotlin" />
     </extensionMap>
   </component>
