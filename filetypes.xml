@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="responseUtil.js" type="AUTO_DETECTED" />
       <mapping ext="md " type="AUTO_DETECTED" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="plantuml" type="PlantUML file" />
       <mapping pattern="clear-pip" type="Shell Script" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
