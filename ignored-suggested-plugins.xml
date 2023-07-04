@@ -1,0 +1,9 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="dev.nx.console" />
+      </list>
+    </option>
+  </component>
+</application>
