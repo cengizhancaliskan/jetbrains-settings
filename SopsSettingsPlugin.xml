@@ -1,0 +1,5 @@
+<application>
+  <component name="com.github.daputzy.intellijsopsplugin.settings.SettingsState">
+    <option name="sopsEnvironment" value="SOPS_AGE_KEY_FILE=/Users/cengizhan/.sops/keys.txt" />
+  </component>
+</application>
