@@ -17,5 +17,6 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
