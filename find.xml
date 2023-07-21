@@ -18,5 +18,6 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
+    <mask>*.sum</mask>
   </component>
 </application>
