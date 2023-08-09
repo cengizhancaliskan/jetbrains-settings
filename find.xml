@@ -20,5 +20,6 @@
     <mask>*.yml</mask>
     <mask>*.sum</mask>
     <mask>*.mod</mask>
+    <mask>*.md</mask>
   </component>
 </application>
