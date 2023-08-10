@@ -21,5 +21,6 @@
     <mask>*.sum</mask>
     <mask>*.mod</mask>
     <mask>*.md</mask>
+    <mask>*.go</mask>
   </component>
 </application>
