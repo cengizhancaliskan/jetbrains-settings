@@ -22,5 +22,7 @@
     <mask>*.mod</mask>
     <mask>*.md</mask>
     <mask>*.go</mask>
+    <mask>doc.yml</mask>
+    <mask>doc.yaml</mask>
   </component>
 </application>
