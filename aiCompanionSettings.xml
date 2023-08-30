@@ -1,0 +1,16 @@
+<application>
+  <component name="AiCompanionSettings">
+    <option name="settings">
+      <map>
+        <entry key="cloudcode.duetAI.codeCompletion.maximumTokens" value="64" />
+        <entry key="cloudcode.duetAI.codeGeneration.extraneousPromptFilesLimit" value="0" />
+        <entry key="cloudcode.duetAI.codeGeneration.maximumTokens" value="1024" />
+        <entry key="cloudcode.duetAI.forceAIDA" value="false" />
+        <entry key="cloudcode.duetAI.project" value="" />
+        <entry key="cloudcode.duetAI.recitation.logFilePath" value="" />
+        <entry key="cloudcode.duetAI.recitation.maxCitedLength" value="-1" />
+        <entry key="cloudcode.duetAI.useRest" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
