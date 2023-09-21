@@ -25,5 +25,6 @@
     <mask>doc.yml</mask>
     <mask>doc.yaml</mask>
     <mask>*mjml</mask>
+    <mask>*sql</mask>
   </component>
 </application>
