@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.mjml" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
@@ -27,5 +28,6 @@
     <mask>*.yaml</mask>
     <mask>*.mod</mask>
     <mask>*.go</mask>
+    <mask>*.mjml</mask>
   </component>
 </application>
