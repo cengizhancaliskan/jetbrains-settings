@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping pattern="responseUtil.js" type="AUTO_DETECTED" />
       <mapping ext="md " type="AUTO_DETECTED" />
