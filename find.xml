@@ -24,9 +24,9 @@
     <mask>doc.yaml</mask>
     <mask>*mjml</mask>
     <mask>*sql</mask>
-    <mask>*.yaml</mask>
-    <mask>*.mod</mask>
     <mask>*.go</mask>
     <mask>*.mjml</mask>
+    <mask>*.mod</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
